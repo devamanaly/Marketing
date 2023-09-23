@@ -1,0 +1,10 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.stay{
+    background-image: url("./Rectangle\ 48.png");
+    background-size: cover;
+    background-position:center ;
+}

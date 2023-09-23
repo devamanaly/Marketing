@@ -1,0 +1,16 @@
+@-webkit-keyframes HidenFrequents {
+    from { transform: scaleY(0) }
+    to { transform: scaleY(1) }
+}
+@-moz-keyframes HidenFrequents {
+    from { transform: scaleY(0) }
+    to { transform: scaleY(1) }
+}
+.HidenFrequents{
+    webkit-animation: HidenFrequents 1s normal forwards ease-in-out;
+           -moz-animation: HidenFrequents 1s normal forwards ease-in-out;
+                animation: HidenFrequents 1s normal forwards ease-in-out;
+        -webkit-transform-origin: 50% 0%;
+           -moz-transform-origin: 50% 0%;
+                transform-origin: 50% 0%;
+}

@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.Open-Image{
+    background-image: url("./Rectangle\ 52.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+   background-attachment: fixed;
+    /* height: 630px; */
+}

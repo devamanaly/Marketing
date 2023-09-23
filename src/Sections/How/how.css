@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.how{
+    background-image: url('./Screenshot\ 2023-07-20\ 053514\ 1.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

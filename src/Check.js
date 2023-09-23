@@ -1,0 +1,61 @@
+import React from 'react'
+import Head from './Sections/Header/Head'
+import Heros from './Sections/Heros/Heros'
+// import Card from './components/Card/Card'
+import Work from './Sections/Work/Work'
+// import Card from './components/Card/Card'
+import TopText from './components/TopText/TopText'
+import BotmTxt from './components/BotmText/BotmTxt'
+import LastTxt from './components/LastText/LastTxt'
+import HiddenTxt from './Sections/Txt/HiddenTxt'
+import How from './Sections/How/How'
+import Star from './Sections/Star/Star'
+import Expertise from './Sections/Expertise/Expertise'
+import Frequent from './Sections/frequent/Frequent'
+import FData from './Sections/frequent/Data/FData'
+import Explore from './Sections/Explore/Explore'
+import Checks from './Check/Checks'
+import Foot from './Sections/footer/Foot'
+import WHeros from './Secs/Work/Heros'
+// import Dheros from './Secs/digital/Dheros/Dheros'
+import Card from './Secs/CUlture/Profiles/Card/Card'
+import Profile from './Secs/CUlture/Profiles/Profile'
+import Form from './Secs/Connect/Form/Form'
+import Strategy from './Secs/Connect/Strategy/Strategy'
+// import OverView from './Secs/BrandStratrgy/overview/OverView'
+import Expert from './Secs/BrandStratrgy/Expert/Expert'
+import OverView from './Secs/Carrier/overview/OverView'
+import Brand from './Secs/BrandStratrgy/Cards/Brand'
+import BrandCard from './Secs/BrandStratrgy/Cards/Card/Card'
+import { Brands } from './Secs/BrandStratrgy/Cards/BrandStyle'
+import Features from './Secs/Insights/Feature/Features'
+import InsightCard from './Secs/Insights/Cards/Card/Card'
+import Stay from './Secs/Insights/Stay/Stay'
+import Dheros from './Secs/Carrier/Dheros/Dheros'
+import Openings from './Secs/Carrier/Openings/Openings'
+import Perks from './Secs/Carrier/Perks/Perks'
+import Home from './Pages/Home/Home'
+import WorkP from './Pages/WorkPage/WorkP'
+import Culture from './Pages/Culture/Culture'
+import Contact from './Pages/Contact/Contact'
+import Insight from './Pages/Isight/Insight'
+import Carrier from './Pages/Carrier/Carrier'
+import BrandP from './Pages/Brand/BrandP'
+import Solutions from './Pages/Solutions/Solutions'
+import HidenFrequent from './Sections/frequent/HidenFrequent'
+import Ferq from './Sections/frequent/Freq'
+import Mesh from './Sections/Mesh/Mesh'
+import Routess from './Routes/Routess'
+// import { Cards } from './components/Card/CardStyle'
+// import Card from './Secs/digital/Cards/Card/Card'
+const Check = () => {
+  return (
+    <div>
+        <Routess/>
+      
+      
+    </div>
+  )
+}
+
+export default Check
